@@ -1,3 +1,3 @@
 # recipe_recommendation
 
-Welcome to one stop for recipes from all around the globe with ingredients you have
+Welcome to one stop destination for recipes from all around the globe with ingredients you have.
